@@ -1,0 +1,5 @@
+name: AriolaSkyBlock
+version: ${project.version}
+main: me.xemu.ariolaskyblock.AriolaSkyBlock
+api-version: 1.16
+authors: [ Ariola, Xemu ]
